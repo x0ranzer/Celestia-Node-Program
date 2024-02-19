@@ -10,9 +10,6 @@ As a chosen participant, my documented contributions spanned multiple phases, ea
 ## [Full Storage Node Challenge]
 Participating in the Full Storage Node Challenge in May 2023 was a distinctive experience. The challenge inspired creative and entertaining ways to run Celestia full storage nodes, showcasing the versatility of the network.
 
-## [Performance Analysis]
-For a detailed breakdown of my performance analysis for the Celestia Light Node, explore this comprehensive report. This analysis delves into the intricacies of my contributions, providing valuable insights into the node's efficiency and effectiveness.
-
 Amount of Celestia Received: 14,000 Celestia
 
 ## [Impact]
